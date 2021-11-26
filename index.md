@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Witaj na mojej pierwszej stronie internetowej
 
-You can use the [editor on GitHub](https://github.com/kubijaku/kubijaku.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Przy użyciu edytora[editor on GitHub](https://github.com/kubijaku/kubijaku.github.io/edit/main/index.md) mogę zmienić zawartość tej strony i ją ulepszać.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
@@ -11,15 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Coś
+## Bardzo
+### Ważnego
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. Zrobić stronę
+2. Dodać ją do README
 
 **Bold** and _Italic_ and `Code` text
 
