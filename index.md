@@ -1,5 +1,15 @@
 ## Witaj na mojej pierwszej stronie internetowej
 
+#Opis projektu
+
+Projekt o niezwykle ambitnym celu udało nam się w pewnym stopniu zrealizować. Stworzyliśmy zalążek całego programu dla społeczności studenckiej, NIestety ze względu na brak odpowiednich zabezpieczeń nie udało nam się go przetestować na większej liczbie odbiorców
+Współtwórcami projektu byli:
+
+
+
+
+
+
 Przy użyciu edytora[editor on GitHub](https://github.com/kubijaku/kubijaku.github.io/edit/main/index.md) mogę zmienić zawartość tej strony i ją ulepszać.
 
 
