@@ -8,8 +8,6 @@ Współtwórcami projektu byli:</i>
 - [Julia Maciaszek](https://github.com/julemac)
 - [Eryk Mikołajek](https://github.com/Oloqq)
 - [Olgierd Piofczyk](https://github.com/ErykMikolajek)
-- Bulleted
-- List
 
 
 
