@@ -1,9 +1,12 @@
 ## Witaj na mojej pierwszej stronie internetowej
 
-#Opis projektu
+# Opis projektu
 
-Projekt o niezwykle ambitnym celu udało nam się w pewnym stopniu zrealizować. Stworzyliśmy zalążek całego programu dla społeczności studenckiej, NIestety ze względu na brak odpowiednich zabezpieczeń nie udało nam się go przetestować na większej liczbie odbiorców
-Współtwórcami projektu byli:
+<i>Projekt o niezwykle ambitnym celu udało nam się w pewnym stopniu zrealizować. Stworzyliśmy zalążek całego programu dla społeczności studenckiej, NIestety ze względu na brak odpowiednich zabezpieczeń nie udało nam się go przetestować na większej liczbie odbiorców
+Współtwórcami projektu byli:<\i>
+*[Julia Maciaszek](https://github.com/julemac)
+*[Eryk Mikołajek](https://github.com/Oloqq)
+*[Olgierd Piofczyk](https://github.com/ErykMikolajek)
 
 
 
